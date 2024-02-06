@@ -1,0 +1,14 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: Istok-Bold
+font link: https://fonts.google.com/specimen/Istok+Web
+font author: Andrey V. Panov
+font author site: 
+
+
+icon designer: Nithinan Tatah
+icon designer link: /noomtah
+        
+{"bg":"#0038F4","icon":"#AEFFF4","font":"#AEFFF4","slogan":"#c2ffff"}
+      
